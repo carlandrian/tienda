@@ -1,0 +1,28 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "Tienda Mobile App",
+  "main": "index.js",
+  "dependencies": {
+    "cordova-android": "^7.0.0",
+    "cordova-browser": "^5.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlandrian/tienda.git"
+  },
+  "keywords": [
+    "Tienda",
+    "tienda"
+  ],
+  "author": "Carl A. A. C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlandrian/tienda/issues"
+  },
+  "homepage": "https://github.com/carlandrian/tienda#readme"
+}
